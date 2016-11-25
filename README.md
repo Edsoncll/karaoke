@@ -1,4 +1,2 @@
 # karaoke
-To collaborate about Karaoke Systems.
-
-Entren ASAP
+Ya funciana los menús
